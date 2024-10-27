@@ -1,2 +1,2 @@
-# Snow
-Snow animation in python
+# Ascii Animation
+Ascii animation in python
